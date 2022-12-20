@@ -1,0 +1,89 @@
+*{
+      padding: 0;
+      margin: 0;
+      
+      
+ }
+    .main1 h1{
+      font-size: 40px;
+      text-align: center;
+      padding: 20px;
+      margin-top: 60px;
+      
+    }
+    .main1 p{
+      text-align: center;
+      padding: 10px;
+      margin-bottom: 30px;
+    }
+  .stars {
+    margin-bottom: 80px;
+  }
+  
+    .star-star1{
+      background-color: hsl(300, 24%, 96%) ;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 10px;
+    }
+    
+    
+    .star-star2{
+      background-color: hsl(300, 24%, 96%) ;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      font-weight: 600;
+      border-radius: 10px;
+    }
+    
+    
+    .star-star3{
+      background-color: hsl(300, 24%, 96%) ;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      font-weight: 600;
+      border-radius: 10px;
+    }
+    .itemhead{
+      display: flex;
+    }
+    .itemimg img{
+  border-radius: 50px;
+  max-width: 50px;
+    }
+    .itemname{
+      padding-left: 10px;
+    }
+    .container p{
+      color:  hsl(300, 24%, 96%);
+    }
+    .itemname h6{
+      font-size: 15px;
+      color:  hsl(300, 24%, 96%);
+    }
+    .item-item1{
+      background-color: hsl(300, 43%, 22%);
+      padding: 30px;
+      border-radius: 10px;
+      margin: 10px;
+    }
+    .item-item2{
+      background-color: hsl(300, 43%, 22%);
+      padding: 30px;
+      border-radius: 10px;
+      margin: 10px;
+    }
+    .item-item3{
+      background-color: hsl(300, 43%, 22%);
+      padding: 30px;
+      border-radius: 10px;
+      margin: 10px;
+    }
+    span{
+      color: hsl(333, 80%, 67%);
+    }

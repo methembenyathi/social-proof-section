@@ -1,0 +1,98 @@
+  *{
+    padding: 0;
+    margin: 0;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .every{
+    margin: 100px auto;
+    max-width: 60%;
+  }
+  .main{
+    display: flex;
+  }
+  h1{
+    color:  hsl(300, 43%, 22%);;
+  }
+  .main1{
+    max-width: 40%;
+    padding-left: 20px;
+  }
+  .container{
+    display: flex;
+    padding: 10px;
+    height: 60%;
+  }
+  .item-item1{
+    background-color:  hsl(300, 43%, 22%);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+  }
+  .item-item2{
+    background-color: hsl(300, 43%, 22%) ;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+  }
+  .item-item3{
+    background-color:  hsl(300, 43%, 22%);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+    }
+  .itemhead{
+    display: flex;
+    padding: 5px;
+  }
+ .itemimg img{
+    max-width: 50px;
+    border-radius: 50px;
+ }
+ .itemname h6{
+    font-size: 20px;
+    color: #ddd;
+ }
+ .itemname span{
+    color: hsl(333, 80%, 67%);
+ }
+ .star-star1{
+    color:  hsl(300, 43%, 22%);
+    background-color:hsl(300, 24%, 96%) ;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+ }
+ .star-star2{
+    color:  hsl(300, 43%, 22%);;
+    background-color:hsl(300, 24%, 96%) ;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+ }
+ .star-star3{
+    color:  hsl(300, 43%, 22%);;
+    background-color:hsl(300, 24%, 96%) ;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    }
+ .innerstars{
+    display: flex;
+ }
+.stars{
+    margin-left: 10%;
+
+}
+.stars p{
+  padding-left: 5px;
+}
+ 
